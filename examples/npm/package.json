@@ -1,0 +1,19 @@
+{
+  "name": "html5bytebeat-via-npm",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "dependencies": {
+    "bytebeat.js": "^2.0.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.3.0",
+    "rollup": "^4.24.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
